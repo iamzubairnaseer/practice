@@ -1,0 +1,39 @@
+body{
+    background: blue;
+}
+
+.container{
+    width:50%;
+    float:left;
+    background: white;
+    border: 2px solid #f4f;
+}
+
+.inside{
+    width:80%;
+    margin: auto;
+    background:skyblue;
+    border:2px dotted black;
+    padding-top:10px;
+}
+h1,h2,h3,h4{
+    margin:0px;
+}
+.container-2{
+    width:45%;
+    float:right;
+    background: white;
+    border: 2px solid #f4f;
+}
+
+.container-2 .inside{
+    width:25%;
+    float:left;
+}
+.container-3{
+    width:50%;
+    float:right;
+    background: white;
+    border: 2px solid #f4f;
+    margin-top:10px;
+}
